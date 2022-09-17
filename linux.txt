@@ -1,0 +1,88 @@
+token   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
+
+
+https://23.22.254.251/
+
+https://ec2-23-22-254-251.compute-1.amazonaws.com/
+
+chmod 400 allibaba.pem
+
+ssh -i "allibaba.pem" ubuntu@ec2-54-205-143-217.compute-1.amazonaws.com
+
+54.205.143.217
+
+
+pwd
+
+touch
+
+cat
+
+ls
+
+clear 
+
+info
+
+man
+
+which
+
+mkdir
+
+rmdir
+
+cd -
+
+flags
+
+ls -l
+
+ls -a
+
+ls -la
+
+rm -r
+
+cp
+
+mv
+
+
+
+
+# Headings 1
+## Headings 2
+### Headings 3
+#### Headings 4
+##### Headings 5
+###### Headings 6
+
+Item 1
+Item 2
+Item 3 
+Item 4
+item 5
+Item 6
+
+
+        1. Item 1
+        1. Item 2
+        1. Item 3
+        1. Item 4
+        1. Item 5
+
+![Devops Logo](https://www.kindpng.com/picc/b/453-4531506_devops-png.png)
+
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+**text**
+
+*ext*
+
